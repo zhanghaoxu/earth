@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import {setTitle,pushNotification,openWebView} from '@/utils/nativeActions'
+import {pushNotification,openWebView} from '@/utils/nativeActions'
 export default {
   name: 'HelloWorld',
   props: {
